@@ -1,4 +1,4 @@
-# azure-formulae1
+# azure-formula1
 This project endeavors to furnish a data analysis solution tailored for Formula-1 race results through the utilization of Azure Databricks. It constitutes an Extract, Transform, Load (ETL) pipeline designed to intake Formula 1 motor racing data, subsequently transforming it, and then loading it into our data warehouse to facilitate reporting and analytical pursuits. The primary data source is ergast.com, a dedicated repository for Formula 1 statistics, with storage facilitated through Azure Datalake Gen2. Leveraging Azure Databricks, both data transformation and analysis are executed seamlessly. The orchestration of the entire process is achieved through Azure Data Factory.
 
 
